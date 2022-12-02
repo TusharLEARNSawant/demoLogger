@@ -1,6 +1,6 @@
-package com.github.chandanv89.loganalyser.validator;
+package com.github.TusharLEARNSawant.demoLogger.validator;
 
-import com.github.chandanv89.loganalyser.model.Context;
+import com.github.TusharLEARNSawant.demoLogger.model.Context;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
