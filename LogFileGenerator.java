@@ -1,8 +1,8 @@
-package com.github.chandanv89.loganalyser.utilities;
+package com.github.TusharLEARNSawant.demoLogger.utilities;
 
-import com.github.chandanv89.loganalyser.model.Event;
-import com.github.chandanv89.loganalyser.model.EventType;
-import com.github.chandanv89.loganalyser.model.State;
+import com.github.TusharLEARNSawant.demoLogger.model.Event;
+import com.github.TusharLEARNSawant.demoLogger.model.EventType;
+import com.github.TusharLEARNSawant.demoLogger.model.State;
 
 import java.io.File;
 import java.io.FileOutputStream;
