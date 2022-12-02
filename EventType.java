@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.model;
+package com.github.TusharLEARNSawant.demoLogger.model;
 
 import java.util.Arrays;
 
