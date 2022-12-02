@@ -1,4 +1,5 @@
-
+package com.github.TusharLEARNSawant.demoLogger;
+import com.github.TusharLEARNSawant.demoLogger.service.LogAnalyserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
