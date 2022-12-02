@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.manager;
+package com.github.TusharLEARNSawant.demoLogger.manager;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
