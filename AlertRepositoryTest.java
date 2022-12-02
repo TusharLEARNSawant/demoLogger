@@ -1,7 +1,7 @@
-package com.github.chandanv89.loganalyser.repository;
+package com.github.TusharLEARNSawant.demoLogger.repository;
 
-import com.github.chandanv89.loganalyser.model.EventType;
-import com.github.chandanv89.loganalyser.model.persistence.Alert;
+import com.github.TusharLEARNSawant.demoLogger.model.EventType;
+import com.github.TusharLEARNSawant.demoLogger.model.persistence.Alert;
 import org.junit.Ignore;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
