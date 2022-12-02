@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.model;
+package com.github.TusharLEARNSawant.demoLogger.model;
 
 public class Context {
     private static Context INSTANCE;
