@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.model.persistence;
+package com.github.TusharLEARNSawant.demoLogger.model.persistence;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.github.chandanv89.loganalyser.model.Event;
