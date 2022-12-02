@@ -1,9 +1,9 @@
-package com.github.chandanv89.loganalyser.service;
+package com.github.TusharLEARNSawant.demoLogger.service;
 
-import com.github.chandanv89.loganalyser.conf.ApplicationData;
-import com.github.chandanv89.loganalyser.manager.LogAnalyserManager;
-import com.github.chandanv89.loganalyser.model.Context;
-import com.github.chandanv89.loganalyser.validator.LogAnalyserValidator;
+import com.github.TusharLEARNSawant.demoLogger.conf.ApplicationData;
+import com.github.TusharLEARNSawant.demoLogger.manager.LogAnalyserManager;
+import com.github.TusharLEARNSawant.demoLogger.model.Context;
+import com.github.TusharLEARNSawant.demoLogger.validator.LogAnalyserValidator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
